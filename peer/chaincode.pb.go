@@ -6,7 +6,7 @@ package peer
 import (
 	fmt "fmt"
 	proto "github.com/golang/protobuf/proto"
-	common "github.com/hyperledger/fabric-protos-go/common"
+	common "github.com/ravengit/fabric-protos-go/common"
 	math "math"
 )
 
